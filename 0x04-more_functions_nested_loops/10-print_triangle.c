@@ -11,16 +11,22 @@ void print_triangle(int size)
 
 	if (size > 0)
 	{
-		for (hash = 1; hash <= size; hash++)
+		for (BlockSize = 1; BlockSize <= size; BlockSize++)
 		{
-			for (index = size - hash; index > 0; index--)
-				_putchar(' ');
+			for (index = size - BlockSize; index > 0; index--)
+			{
+				putchar(' ');
+			}
 
-			for (index = 0; index < hash; index++)
-				_putchar('#');
+			for (index = 0; index < BlockSize; index++)
+			{
+				putchar('#');
+			}
 
-			if (hash == size)
+			if (BlockSize == size)
+			{
 				continue;
+			}
 
 			putchar('\n');
 		}
