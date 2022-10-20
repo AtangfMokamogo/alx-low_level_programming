@@ -8,9 +8,12 @@
 
 void print_numbers(void)
 {
-	for (int niterate = 0; niterate <= 9; niterate++)
+	int num;
+
+	for (num = 0; num <= 9; num++)
 	{
-		putchar(niterate);
+		putchar((num % 10) + '0');
 	}
+
 	putchar('\n');
 }
