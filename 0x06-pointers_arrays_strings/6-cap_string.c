@@ -26,7 +26,7 @@ char *cap_string(char *str)
 				str[idx - 1] == ')' ||
 				str[idx - 1] == '{' ||
 				str[idx - 1] == '}' ||
-				index == 0)
+				idx == 0)
 			str[idx] -= 32;
 		idx++;
 	}
