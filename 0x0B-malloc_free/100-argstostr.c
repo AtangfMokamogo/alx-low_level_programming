@@ -33,7 +33,7 @@ char *argstostr(int ac, char **av)
 		counter++;
 	}
 	counter++; /* to account for \n that needs to be added later */
-       itr = malloc(sizeof(char) * counter);
+	itr = malloc(sizeof(char) * counter);
 	if (itr == NULL)
 		return (NULL);
 
