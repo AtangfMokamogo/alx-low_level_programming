@@ -46,5 +46,5 @@ This directory contains files for tasks in the project [0x01. C - Variables, if,
   
 ## NOTE:
 * All tasks were compiled using gcc, using options -Wall -Werror -Wextra -pedantic -std=gnu89
-* The code was checked using the [Betty linter](https://github.com/holbertonschool/Betty/wiki)
+* The code was checked using the [Betty C-Language linter](https://github.com/holbertonschool/Betty/wiki)
 * All tasks were carried out using Ubuntu 20.04 LTS sandbox
