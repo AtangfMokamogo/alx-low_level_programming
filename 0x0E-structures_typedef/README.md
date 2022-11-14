@@ -1,6 +1,6 @@
 # C - Structures, typedef
 
-This directory contains files for tasks in the project [0x0E. C-Structures, typedef](add link after commit the project to github)
+This directory contains files for tasks in the project [0x0E. C-Structures, typedef](https://github.com/AtangfMokamogo/alx-low_level_programming/tree/main/0x0E-structures_typedef)
 
 ## tasks :page_with_curl:
 
