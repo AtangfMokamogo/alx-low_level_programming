@@ -45,6 +45,6 @@ This directory contains files for tasks in the project [0x01. C - Variables, if,
   * [102-print_comb5.c](https://github.com/AtangfMokamogo/alx-low_level_programming/blob/main/0x01-variables_if_else_while/102-print_comb5.c): Write a program that prints all possible combinations of two two-digit numbers.
   
 ## NOTE:
-* All tasks were compiled using gcc, using options -Wall -Werror -Wextra -pedantic -std=gnu89
+* All tasks were compiled using 'gcc' command, using options '-Wall' '-Werror' '-Wextra' '-pedantic' '-std=gnu89'
 * The code was checked using the [Betty C-Language linter](https://github.com/holbertonschool/Betty/wiki)
 * All tasks were carried out using Ubuntu 20.04 LTS sandbox
