@@ -1,11 +1,7 @@
 # C - Preprocessor
 
-This directory contains files for task in the project 0x0D. C - Preprocessor
+This directory contains files for task in the project [0x0D. C - Preprocessor](https://github.com/AtangfMokamogo/alx-low_level_programming/tree/main/0x0D-preprocessor)
 
-
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
 
 ## Tasks :page_with_curl:
 
