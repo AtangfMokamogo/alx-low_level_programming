@@ -3,10 +3,6 @@
 This directory contains files for task in the project 0x0D. C - Preprocessor
 
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
 ## Tasks :page_with_curl:
 
 * **0. Object-like Macro**
