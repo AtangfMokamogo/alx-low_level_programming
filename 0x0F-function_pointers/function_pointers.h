@@ -1,5 +1,6 @@
 #ifndef function_pointers
 #define function_pointers
+#include <stddef.h>
 
 /*
  * Desc: Header file containing prototypes for all functions
