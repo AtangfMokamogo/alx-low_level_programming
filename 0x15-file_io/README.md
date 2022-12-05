@@ -1,6 +1,6 @@
 # C - File IO
 
-This directory contains files for tasks in the project [0x15-file_io] (https://github.com/AtangfMokamogo/alx-low_level_programming/tree/main/0x15-file_io)
+This directory contains files for tasks in the project [0x15-file_io](https://github.com/AtangfMokamogo/alx-low_level_programming/tree/main/0x15-file_io)
 
 ## Tasks :page_with_curl:
 
