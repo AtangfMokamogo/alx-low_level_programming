@@ -1,1 +1,1 @@
-a template readme file, replace with project description
+a template readme file, replace with project descriptions
