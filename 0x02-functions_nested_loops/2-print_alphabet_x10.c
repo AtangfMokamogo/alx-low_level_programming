@@ -9,10 +9,11 @@ void print_alphabet_x10(void)
 	int nIterate = 0;
 	char alphas;
 
-	while (nIterate <= 9)
+	for (nIterate = 0; nIterate <= 9; nIterate++)
 	{
 		for (alphas = 'a'; alphas <= 'z'; alphas++)
 			putchar(alphas);
-		putchar('\n');
+	
 	}
+	putchar('\n');
 }
